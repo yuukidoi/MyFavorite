@@ -1,0 +1,2 @@
+rootProject.name='MyFavorite'
+include ':app'
